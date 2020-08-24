@@ -1,0 +1,11 @@
+.cart-text h1{
+    text-align: center;
+    color: gray;
+}
+.cart-text h4{
+    padding-bottom: 10px;
+    border-bottom: 1px solid gray;
+}
+.cart-text h2{
+   color: darkred
+}

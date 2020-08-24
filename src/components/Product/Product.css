@@ -1,0 +1,19 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    padding: 15px 0;
+}
+.product-list{
+    margin-left: 20px;
+}
+.product-list h4{
+    font-weight: 400;
+    color: blue;
+}
+.add-to-cart{
+    height: 30px;
+    width: 150px;
+    background-color: goldenrod;
+    border: 1px solid gray;
+    cursor: pointer;
+}
